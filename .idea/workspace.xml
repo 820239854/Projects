@@ -2,34 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3cd2c44-bc6f-41b2-9a32-658d79a6bde6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/GUI/Basic/AlgoFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/GUI/Basic/AlgoVisHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/GUI/Basic/AlgoVisualizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/GUI/Basic/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Simulation/FenMoney/AlgoFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Simulation/FenMoney/AlgoVisHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Simulation/FenMoney/AlgoVisualizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Simulation/GetPi/AlgoFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Simulation/GetPi/AlgoVisHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Simulation/GetPi/AlgoVisualizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Simulation/GetPi/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Simulation/GetPi/MonteCarloPiData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Templete/AlgoFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Templete/AlgoVisHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Templete/AlgoVisualizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Projects/com/Simulation/GetPi/MonteCarloExpe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Simulation/GetPi/MonteCarloExpe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Simulation/ThreeGateExperiment/ThreeGateExperiment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SortAnimation/AlgoFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SortAnimation/AlgoVisHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SortAnimation/AlgoVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SortAnimation/SelectionSortData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Projects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projects/com/Geng/AlgoFrame$AlgoCanvas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projects/com/Geng/AlgoFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projects/com/Geng/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Geng/AlgoFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Geng/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,57 +24,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Simulation/GetPi/AlgoFrame.java">
+        <entry file="file://$PROJECT_DIR$/src/com/SortAnimation/AlgoFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="69" column="42" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
+            <state relative-caret-position="810">
+              <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Simulation/GetPi/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
-              <folding>
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/com/SortAnimation/AlgoVisualizer.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/SortAnimation/AlgoVisHelper.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Simulation/GetPi/AlgoVisualizer.java">
+        <entry file="file://$PROJECT_DIR$/src/com/SortAnimation/SelectionSortData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Simulation/GetPi/MonteCarloPiData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="617">
-              <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Simulation/GetPi/AlgoVisHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="435">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -137,6 +89,12 @@
         <option value="$PROJECT_DIR$/src/com/Simulation/GetPi/MonteCarloPiData.java" />
         <option value="$PROJECT_DIR$/src/com/Simulation/GetPi/AlgoFrame.java" />
         <option value="$PROJECT_DIR$/src/com/Simulation/GetPi/AlgoVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/com/Simulation/GetPi/MonteCarloExpe.java" />
+        <option value="$PROJECT_DIR$/src/com/Simulation/ThreeGateExperiment/ThreeGateExperiment.java" />
+        <option value="$PROJECT_DIR$/src/com/SortAnimation/AlgoVisHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/SortAnimation/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/com/SortAnimation/AlgoFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/SortAnimation/SelectionSortData.java" />
       </list>
     </option>
   </component>
@@ -159,59 +117,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="Simulation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="Simulation" type="462c0819:PsiDirectoryNode" />
-              <item name="GetPi" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546851157404" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546871489739" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_game/n1pr8g/02-Java-Swing-Basics/07-Animation-Basics" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/SortAnimation" />
       <recent name="$PROJECT_DIR$/src/com/Simulation/GetPi" />
       <recent name="$PROJECT_DIR$/src/com/Templete" />
       <recent name="$PROJECT_DIR$/src/com/GetPi" />
       <recent name="$PROJECT_DIR$/src/com/Simulation" />
-      <recent name="$PROJECT_DIR$/src/com/GUI/Basidd" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -226,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AlgoVisualizer (1)">
+  <component name="RunManager" selected="Application.ThreeGateExperiment">
     <configuration name="AlgoVisualizer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Simulation.GetPi.AlgoVisualizer" />
       <module name="Projects" />
@@ -246,19 +169,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.GUI.Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AlgoVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Geng.AlgoVisualizer" />
-      <module name="Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Geng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,13 +202,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MonteCarloExpe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Simulation.GetPi.MonteCarloExpe" />
+      <module name="Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Simulation.GetPi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeGateExperiment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Simulation.ThreeGateExperiment.ThreeGateExperiment" />
+      <module name="Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Simulation.ThreeGateExperiment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreeGateExperiment" />
+        <item itemvalue="Application.MonteCarloExpe" />
         <item itemvalue="Application.AlgoVisualizer (1)" />
         <item itemvalue="Application.AlgoVisualizer (2)" />
         <item itemvalue="Application.AlgoVisualizer (1)" />
-        <item itemvalue="Application.AlgoVisualizer" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -325,10 +261,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="3" width="1366" height="765" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="3" width="1366" height="768" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984472" visible="true" weight="0.11742424" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984472" visible="true" weight="0.38484848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -336,13 +271,13 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5015528" side_tool="true" weight="0.11590909" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.31045243" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917318" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.40561622" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32919255" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32919255" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32917318" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007576" side_tool="true" weight="0.3090062" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32919255" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -409,19 +344,27 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Geng/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Geng/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/com/GUI/Basic/AlgoFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
@@ -441,18 +384,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/GUI/Basidd/Basic/AlgoFrame.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/GUI/Basidd/Basic/AlgoVisHelper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/GUI/Basidd/Basic/Circle.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/GUI/Basidd/Basic/AlgoVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/GUI/Basidd/Basic/AlgoFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/GUI/Basidd/Basic/AlgoVisHelper.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/GUI/Basidd/Basic/Circle.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/GUI/Basidd/Basic/AlgoVisualizer.java" />
     <entry file="file://$PROJECT_DIR$/src/com/Simulation/FenMoney/AlgoFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -471,12 +406,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/GetPi/AlgoVisHelper.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/GetPi/AlgoVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/GetPi/AlgoVisHelper.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/GetPi/AlgoVisualizer.java" />
     <entry file="file://$PROJECT_DIR$/src/com/GUI/Basic/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -484,9 +415,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/GetPi/AlgoFrame.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/GetPi/AlgoFrame.java" />
     <entry file="file://$PROJECT_DIR$/src/com/Templete/AlgoFrame.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -518,7 +447,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Simulation/GetPi/AlgoVisHelper.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Simulation/GetPi/AlgoFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
@@ -536,10 +465,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Simulation/GetPi/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Simulation/GetPi/MonteCarloPiData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        <state relative-caret-position="150">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#366#367#0" expanded="true" />
@@ -550,17 +486,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Simulation/GetPi/AlgoFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Simulation/GetPi/AlgoVisHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="69" column="42" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Simulation/GetPi/AlgoVisualizer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Simulation/GetPi/MonteCarloExpe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        <state relative-caret-position="302">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Simulation/ThreeGateExperiment/ThreeGateExperiment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SortAnimation/AlgoFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SortAnimation/AlgoVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SortAnimation/AlgoVisHelper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SortAnimation/SelectionSortData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
